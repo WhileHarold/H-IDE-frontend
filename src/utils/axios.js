@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "https://k3524f3368bbda.user-app.krampoline.com", // Replace with your backend base URL
+  baseURL: "https://kbeac85213248a.user-app.krampoline.com", // Replace with your backend base URL
   headers: {
     "Content-Type": "application/json",
   },
